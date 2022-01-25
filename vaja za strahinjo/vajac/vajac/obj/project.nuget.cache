@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "e68QUIkWy2hzv8p66TuaQwWbjvy3I5TqcHQUjSzvGT/RuDtJ7uzvdGgzw++TV2R+2x3gYqJnnXJiqFQaSH6guQ==",
+  "success": true,
+  "projectFilePath": "C:\\david praksa 2022 net informatika test\\vaja za strahinjo\\vajac\\vajac\\vajac.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\WorkStation1\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

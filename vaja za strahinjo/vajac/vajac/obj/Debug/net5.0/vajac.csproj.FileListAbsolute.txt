@@ -1,0 +1,17 @@
+C:\david praksa 2022 net informatika test\vaja za strahinjo\vajac\vajac\bin\Debug\net5.0\vajac.exe
+C:\david praksa 2022 net informatika test\vaja za strahinjo\vajac\vajac\bin\Debug\net5.0\vajac.deps.json
+C:\david praksa 2022 net informatika test\vaja za strahinjo\vajac\vajac\bin\Debug\net5.0\vajac.runtimeconfig.json
+C:\david praksa 2022 net informatika test\vaja za strahinjo\vajac\vajac\bin\Debug\net5.0\vajac.runtimeconfig.dev.json
+C:\david praksa 2022 net informatika test\vaja za strahinjo\vajac\vajac\bin\Debug\net5.0\vajac.dll
+C:\david praksa 2022 net informatika test\vaja za strahinjo\vajac\vajac\bin\Debug\net5.0\ref\vajac.dll
+C:\david praksa 2022 net informatika test\vaja za strahinjo\vajac\vajac\bin\Debug\net5.0\vajac.pdb
+C:\david praksa 2022 net informatika test\vaja za strahinjo\vajac\vajac\obj\Debug\net5.0\vajac.csproj.AssemblyReference.cache
+C:\david praksa 2022 net informatika test\vaja za strahinjo\vajac\vajac\obj\Debug\net5.0\vajac.GeneratedMSBuildEditorConfig.editorconfig
+C:\david praksa 2022 net informatika test\vaja za strahinjo\vajac\vajac\obj\Debug\net5.0\vajac.AssemblyInfoInputs.cache
+C:\david praksa 2022 net informatika test\vaja za strahinjo\vajac\vajac\obj\Debug\net5.0\vajac.AssemblyInfo.cs
+C:\david praksa 2022 net informatika test\vaja za strahinjo\vajac\vajac\obj\Debug\net5.0\vajac.csproj.CoreCompileInputs.cache
+C:\david praksa 2022 net informatika test\vaja za strahinjo\vajac\vajac\obj\Debug\net5.0\vajac.dll
+C:\david praksa 2022 net informatika test\vaja za strahinjo\vajac\vajac\obj\Debug\net5.0\ref\vajac.dll
+C:\david praksa 2022 net informatika test\vaja za strahinjo\vajac\vajac\obj\Debug\net5.0\vajac.pdb
+C:\david praksa 2022 net informatika test\vaja za strahinjo\vajac\vajac\obj\Debug\net5.0\vajac.genruntimeconfig.cache
+C:\david praksa 2022 net informatika test\vaja za strahinjo\vajac\vajac\bin\Debug\net5.0\TextFile1.txt
